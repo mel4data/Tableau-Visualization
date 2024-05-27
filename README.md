@@ -2,6 +2,7 @@
 
 ## Soda
 
+![image](https://github.com/mel4data/Tableau-Visualization/assets/170362474/eeef679a-6621-410c-8a1c-1a8855b419c3)
 
 ## NYC Taxi Dashboard
 
